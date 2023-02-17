@@ -39,8 +39,8 @@ function myfunc() {
     else if (elinput2.value === "yu") {
         elsubject.innerHTML = "ю"
     }
-    else if (elinput2.value === "a") {
-        elsubject.innerHTML = "A"
+    else if (elinput2.value === "p") {
+        elsubject.innerHTML = "п"
     }
     else if (elinput2.value === "k") {
         elsubject.innerHTML = "k"
